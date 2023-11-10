@@ -1,0 +1,21 @@
+
+_
+java:S1192!"IDefine a constant instead of duplicating this literal "aleacion" 5 times.(˜ß‘„
+g
+java:S1192Q"QDefine a constant instead of duplicating this literal "felpa y algodon" 10 times.(ÓÔ×»
+b
+java:S1192#"GDefine a constant instead of duplicating this literal "aretes" 4 times.(¦ê¼âùÿÿÿÿ
+b
+java:S1192""GDefine a constant instead of duplicating this literal "anillo" 3 times.(Øêõ±þÿÿÿÿ
+l
+java:S1192""QDefine a constant instead of duplicating this literal "acero inoxidable" 4 times.(Øêõ±þÿÿÿÿ
+\
+java:S11929"GDefine a constant instead of duplicating this literal "anime" 12 times.(¬Ã¹g
+]
+java:S1192Q"GDefine a constant instead of duplicating this literal "sanrio" 4 times.(ÓÔ×»
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›ÒÁã
+t	java:S116"_Rename this field "AccesoriosRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕãË›
+}	java:S116"cRename this field "PersonalizadosRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÈÒ³ýÿÿÿÿ
+q	java:S116"\Rename this field "FigurasRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Éä›
+w	java:S116"]Rename this field "PeluchesRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•°÷æûÿÿÿÿ
+n	java:S116"YRename this field "RopaRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¸©î
